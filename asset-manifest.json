@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/taskMaster-deploy/static/js/main.078fc31f.chunk.js",
+    "main.js.map": "/taskMaster-deploy/static/js/main.078fc31f.chunk.js.map",
+    "runtime~main.js": "/taskMaster-deploy/static/js/runtime~main.e4e8fc6b.js",
+    "runtime~main.js.map": "/taskMaster-deploy/static/js/runtime~main.e4e8fc6b.js.map",
+    "static/js/2.279cde98.chunk.js": "/taskMaster-deploy/static/js/2.279cde98.chunk.js",
+    "static/js/2.279cde98.chunk.js.map": "/taskMaster-deploy/static/js/2.279cde98.chunk.js.map",
+    "index.html": "/taskMaster-deploy/index.html",
+    "precache-manifest.1afbe3efc899a08f5e99409bc4f4228f.js": "/taskMaster-deploy/precache-manifest.1afbe3efc899a08f5e99409bc4f4228f.js",
+    "service-worker.js": "/taskMaster-deploy/service-worker.js"
+  }
+}
