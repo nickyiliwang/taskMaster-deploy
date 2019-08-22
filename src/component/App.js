@@ -1,15 +1,18 @@
 import React from "react";
-import InputField from "./InputField";
-import RenderList from "./RenderList";
 import Header from "./Header";
+import AddTodo from "../containers/AddTodo";
+import { VisibilityToggle } from "./VisibilityToggle";
+import RenderList from "../containers/RenderList";
 
+// err
 
 class App extends React.Component {
   render() {
     return (
-      <div className="ui container">
+      <div className="ui container center aligned">
         <Header />
-        <InputField />
+        <AddTodo />
+        <VisibilityToggle />
         <RenderList />
       </div>
     );
